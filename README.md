@@ -13,7 +13,6 @@ The `zadoff_chu.py` contains a clear function to generate the zadoff_chu sequenc
 - [Usage](#Usage)
 - [Maintainers](#maintainers)
 - [License](#license)
-- [References](#References)
 
 ## Background
 
